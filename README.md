@@ -1,2 +1,2 @@
-# JOGOATRAVESSARRUA
-Jogo de Atravessar a rua.
+# JOGO DE ATRAVESSAR À RUA
+Jogo foi criado com HTML, CSS e JAVASCRIPT.
